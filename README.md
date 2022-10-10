@@ -4,9 +4,9 @@ Shopify is an open source E-commerce UI kit made with Google's Flutter Framework
 
 ## Rubric followed for the Project
 
-* Firebase authentication is used to check the user identity.
-* Then it redirects to the `Home Page`.
-* `Navigation Drawer` also provides more functionalities to the app.
+* Firebase authentication is used to check the user authenticity.
+* App is then redirected to the `Home Page`.
+* The Home Page contains a `Navigation Drawer` which provides more functionalities to the app.
 * Each List item displayed by the App should contain relevant price detail and information about the current item. 
 * This includes -
 	* Price of the item.
@@ -31,9 +31,9 @@ Shopify is an open source E-commerce UI kit made with Google's Flutter Framework
    samples, guidance on mobile development, and a full API reference.
 
 ## Design
-SignUp Page | Login Page | Home Screen | Navigation Bar | Detail Page | Reset Password
+SignUp Page | Login Page | Reset Password | Home Screen | Navigation Bar | Detail Page 
 --- | --- | --- | --- | --- | --- |
-![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/SignUp.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/login.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/home_screen.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/Navigation%20bar.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/detail.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/resetPassword.png)
+![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/SignUp.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/login.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/resetPassword.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/home_screen.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/Navigation%20bar.png) | ![](https://github.com/Biswajeet-23/E_commerceApp/blob/master/assets/screenshots/detail.png)
 
 
 
